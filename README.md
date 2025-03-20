@@ -6,6 +6,8 @@ Using IS31FL3731 as a led driver to control all the leds individually.
 Using Attiny 85 to control IS31FL3731. 
 
 Powered by cr2032 battery.
+ 
+Almost copied from https://github.com/adafruit/Adafruit_IS31FL3731
 
 ![version 2 kicad](./readme-media/v2-kicad.png)
 
